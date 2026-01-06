@@ -1,0 +1,1 @@
+Tests: earn points by completing surveys, spend points to publish, response limit by points, close survey at limit
